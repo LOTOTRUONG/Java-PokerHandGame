@@ -10,6 +10,8 @@ import java.util.Map;
 import java.util.Set;
 import java.util.stream.Collectors;
 
+//code by Loan TRUONG
+
 public class PokerGame {
 	    public static void main(String[] args) {
 	        List<String> deck = generateDeck();
